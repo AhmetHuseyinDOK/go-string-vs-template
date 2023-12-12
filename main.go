@@ -2,11 +2,11 @@ package main
 
 import (
 	"fmt"
+	"html/template"
 	"math/rand"
 	"net/http"
 	"runtime"
 	"strings"
-	"text/template"
 	"time"
 )
 
